@@ -1,0 +1,122 @@
+                                                                Kota Electricity Distribution Limited
+                                                                                  (A Franchisee of JVVNL)
+                                                            YOUR ELECTRICITY BILL FOR                               JUL-2020
+      GST: 08AARCS5318P1ZH                    Bill No.: 21072200001224592 Bill Date: 02-07-2020                  Bill Period: 1.0000          CIN: U40100WB2012PLC181283
+                                                                                                                                               Website: www.cescrajasthan.co.in
+                                                                                                                                                         E-mail: kedl@rp-sg.in
+                                                                   Sub-division Name & Addresss                             Complaint Center Address
+   BHARTI INFRATEL LTD.
+                                                                    AEN(A2,KOTA)
+   H.NO. 3-J-1 VIGYAN NAGAR- A-II                                   KEDL                                                      For immediate assistance call:
+   KOTA- 324005                                                     OPP. ASHOK PARK
+                                                                    VIGAYN NAGAR
+                                                                    KOTA 324005                                                         0141-3532000
+   Phone - 8003399119                                               Office Code:      2107220
+   E-mail - ramesh.s@ntecdiesel.com                                                                                              18001021912,18002001912
+            K. NO.                         Total Due Date             Consumer                            Tariff Code
+                                                                                                                           Current Reading Date       : 28-06-2020
+                                                                                             RSN
+     210722010926                                Amount                Category
+                                                                                                                           Previous Reading Date : 28-05-2020
+         Due Date                                                  NON DOMESTIC                44           2020XA
+                                                     32638                                                                 Consumption                : 2761 KWH
+         20-07-2020
+                                                                     Urban/Rural       Consumer Status     Bill Status     Trans. Loss                :0
+                                                                                                                           Total Consumption/
+  Total Amt. after Due Date:                        33259                                      R           REGULAR
+                                                                                                                                                      : 2761 KWH
+                                                                       URBAN                                               Demand
+                                Your 6 Months' Consumption
+                                                                                             A/C No.         Meter Owner          Consumer PAN            Billing Demand
+                                                                                             1616/0240
+                                                                                                                         Last Payment Details
+                                                                                         Last Payment Date      Amount Received     Mode of Payment        Month / Year
+                                                                                            18/06/2020                16000
+Messages:
+                                                           BANK DETAILS OF KEDL FOR PAYMENT THROUGH NEFT / RTGS:
+                                                   BENEFICIARY NAME                KEDL
+                                                   A/C NO.                         KOTA210722010926
+                                                   IFSC CODE                       ICIC0000104
+                                                   BANK BRANCH                     ICICI Bank Ltd, 18, Jhalawar Road, Kota Rajasthan
+ E. & O. E.
+ For Kota Electricity Distribution Limited
+ Authorized Signatory
+                                                                   Electricity Consumption Bill (Office Copy)
+      Circle Division:                                                     K. No.: 210722010926                                    Bill No.: 21072200001224592
+      Bill Month:                          JUL-2020                       Current Account No.:         1616/0240                        Payment Receipt Stamp
+      Sub Division:                        AEN(A2,KOTA)                   Due Date:                    20-07-2020
+      Office Code:                         2107220                        Due Date Amount:             32638
+      Consumer Name:                       BHARTI INFRATEL LTD.           Amt after Due Date:          33259
+      H.NO. 3-J-1 VIGYAN NAGAR- A-II KOTA- 324005                         Issue Date:    02/07/2020                Type:  A
+      KEDL (A Franchisee of JVVNL)                                                                                                                          website copy
+
+    K. No.                                                        210722010926                                                           Your Electricity Bill For:                                                      JUL-2020
+                Meter Number                                MF                            Previous Reading             Current Reading                      Consumption                          Trans. Loss                  Total Consumption
+                     9788006                                 1.0               KWH              210746.00                    213507.00                            2761                                  0                              2761
+                     9788006                                 1.0              KVAH                   0.00                        0.00                               0                                   0                                0
+                     9788006                                 1.0               KVA                                             0.0000                               0                                0.0000                           0.0000
+                                             Meter Security                       Sanctioned Load                            Connected Load                                   Avg. Monthly                             Contracted Demand
+    Security Amount
+                                                   Amount                                  HP/KW                                   HP/KW                              Consumption (P.F.Y)                                           KVA
+             3200.00                                  0.00                               16.00 KW                                 16.00 KW                                              3348
+              Meter Phase                                     Supply Voltage                                Metering Voltage                                     Metering Type                                          Meter Status
+                     POLY                                              400 V                                        400 V                                                KWH                                                      OK
+                                                                                                                           Fuel Schg:FY18-19Q1 @0.05p/u Instl=21.74;
+         Power Factor                              Service No                             Feeder Code
+                                                          5161                            11F1005445
+ S. No.                                      Details                                          Bill Amount                   S. No.                                         Details                                               Bill Amount
+     1.          Electricity Expenses                                                                       24495.95          17.            Other Nigam Dues (Code)                                                                           3925.87
+     2.          Fixed Charges                                                                               2400.00          18.            Other Electricity Dues (Code)
+     3.          Rebate (-) Voltage                                                                                           19.            Other Water Conservation Cess (Code)
+     4.          Rebate (-) Solar/Sprinkler                                                                                   20.            Other Urban Cess (Code)
+     5.          Incr.Cnsp / NEW MIP (HT) Rebate                                                                              21.            Others (Code)
+     6.          Others (Fuel Surcharge)                                                                       21.74          22.            Adjusted Amount (Code)
+     7.          Demand Surcharge                                                                                             23.            Total Amount (Sum of 13 to 22 including item 6)                                                32638.21
+     8.          Power Factor Surcharge (+)(-)                                                                               24 (i).         Arrear Amount (Nigam Dues)
+     9.          Shunt Capacitor Surcharge (3%)                                                                             24 (ii).         Arrear Amount (Govt. Dues)
+    10.          Unauthorized Consumption Amount                                                                            24 (iii).        Arrear Amount (LPS)
+    11.          CT/PT/Meter Rent                                                                                             25.            Deferred Amount (Active Month)
+    12.          Transformer Rent                                                                                            26 (i).         State Govt. Bearer Amount - Tariff Subsidy
+    13.          Total Nigam Dues (Sum of 1 to 12 excluding item 6)                                         26895.95        26 (ii).         State Govt. Bearer Amount - Other Subsidy
+    14.          Electricity Duty on Current Dues                                                            1104.40          27.            Total Due Date Amount (23+24-25-26)                                                            32638.00
+    15.          Water Conservation Cess                                                                      276.10          28.            LPS                                                                                                621.03
+    16.          Urban Cess                                                                                   414.15          29.            Total Amount After Due Date (Sum of 27 to 28)                                                  33259.00
+                                       Rate Table (Upto 31-01-2020)                                                                                                 Rate Table (From 01-02-2020)
+                                                                                     Per Unit Rate (Rs.)       Per Month (Rs.)                                                                               Per Unit Rate (Rs.)        Per Month (Rs.)
+   Class                                                                           Rate          Elec. Duty     Fixed Charge         Class                                                                 Rate          Elec. Duty      Fixed Charge
+   Domestic                                             First 50 units per month    3.85             0.40        100 /-              Domestic                                 First 50 units per month     4.75           0.40           125 /-
+                                                 51 units to 150 units per month    6.10             0.40        200 /-                                                51 units to 150 units per month     6.50           0.40           230 /-
+                                                151 units to 300 units per month    6.40             0.40        220 /-                                               151 units to 300 units per month     7.35           0.40           275 /-
+                                                301 units to 500 units per month    6.70             0.40        265 /-                                               301 units to 500 units per month     7.65           0.40           345 /-
+                                                 More than 500 units per month      7.15             0.40        285 /-                                                More than 500 units per month       7.95           0.40           400 /-
+   Non Domestic (Upto 5 KW)                           First 100 units per month     7.55             0.40        230 /-              Non Domestic (Upto 5 KW)               First 100 units per month      7.55           0.40           300 /-
+                                                101 units to 200 units per month    8.00             0.40        230 /-                                               101 units to 200 units per month     8.50           0.40           300 /-
+                                                201 units to 500 units per month    8.35             0.40        275 /-                                               201 units to 500 units per month     8.85           0.40           380 /-
+                                                 More than 500 units per month      8.80             0.40        330 /-                                                More than 500 units per month       8.95           0.40           460 /-
+   Non Domestic (Above 5 KW)                          First 100 units per month     7.55             0.40        95 /- per KW        Non Domestic (Above 5 KW)              First 100 units per month      7.55           0.40           135 /- per KW
+                                                101 units to 200 units per month    8.00             0.40        95 /- per KW                                         101 units to 200 units per month     8.50           0.40           135 /- per KW
+                                                201 units to 500 units per month    8.35             0.40        95 /- per KW                                         201 units to 500 units per month     8.85           0.40           135 /- per KW
+                                                 More than 500 units per month      8.80             0.40        105 /- per KW                                         More than 500 units per month       8.95           0.40           150 /- per KW
+   Street Light                                       Population less than 1 lac    6.55             0.40        85 /- per lamp      Street Light                           Population less than 1 lac     7.55           0.40           115 /- per lamp
+                                                  Population of 1 lac and above     7.05             0.40        105 /- per lamp                                        Population of 1 lac and above      8.10           0.40           145 /- per lamp
+   Aggricultural Supply (Metered)                                        General    4.75             0.04        15 /- per HP        Aggricultural Supply (Metered)                            General     5.55           0.04           30 /- per HP
+                                                                          Others    6.05             0.04        30 /- per HP                                                                    Others    7.10           0.04           60 /- per HP
+   Aggricultural Supply (Fixed rate)                                     General 635 per HP                      15 /-               Aggricultural Supply (Fixed                               General  745 per HP                       30 /-
+                                                                          Others 765 per HP                      30 /-                                                                           Others 895 per HP                       60 /-
+   Small Industrial Services                                 500 units per month    6.00             0.40        65 /- per HP        Small Industrial Services                     500 units per month     6.00           0.40           80 /- per HP
+                                                 More than 500 units per month      6.45             0.40        65 /- per HP                                          More than 500 units per month       6.45           0.40           110 /- per HP
+   Medium Industrial Services                                                       7.00             0.40        75 /- per HP        Medium Industrial Services                                            7.00           0.40           115 /- per HP
+                                                                                                                 165 /- per KVA                                                                                                          230 /- per KVA
+   Bulk Supply for Mixed Load                                                       7.00             0.40        75 /- per HP        Bulk Supply for Mixed Load                                            8.05           0.40           105 /- per HP
+ • PAYMENT RELATED INFORMATION:
+1. Bills are to be paid in cash or by crossed cheques/DD in favour of "KEDL Collection Account" to KEDL's authorized employee (cashier) or firmdeputed for KEDL's payment collection, during working hours. KEDL will
+not be responsible for payments made to any other person. For cheque payment, cheques should be of local banks, which are member to clearing house. Cash counter timings : Monday - Friday 9:30am- 6:00pmand Saturday
+9:30am - 2:00 pm.
+2. In case of discrepancy in bills, the full payment must be made. After resolving the discrepancy, required adjustments will be made in the next bill.
+3. In case of bills not paid within due date, a delayed payment surcharge@2 percent per month will be charged.
+ • IMPORTANT INFORMATION:
+1. Old dues added up in new bill do not nullify / make void electric disconnection notice issued on previous due bills.
+2. While corresponding with KEDLalways mention your present account number and K. Number.
+3. In case of disruption of electric supply, please contact Complaints Section or Assistant Engineer on the phone nos. mentioned in the bill. For other problems, forward complaints to the concerned grievance cell or forums for
+solving them. Please note that our new telephone nos for the 'Call Center' are 1800 102 1912 & 1800 200 1912.
+

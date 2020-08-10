@@ -1,0 +1,148 @@
+{
+	"header": {
+		"discom_name": "Kota Electricity Distribution Limited",
+		"bill_for": "JUL-2020",
+		"gst_number": "08AARCS5318P1ZH",
+		"bill_number": "21072200001224592",
+		"bill_date": "02-07-2020",
+		"bill_period": "1.0000",
+		"cin": "U40100WB2012PLC181283",
+		"website": "www.cescrajasthan.co.in",
+		"email": "kedl@rp-sg.in"
+	},
+	"client": {
+		"name": "BHARTI INFRATEL LTD",
+		"address": "H.NO. 3-J-1 VIGYAN NAGAR- A-II KEDL KOTA- 324005",
+		"phone": "8003399119",
+		"email": "ramesh.s@ntecdiesel.com"
+	},
+	"subdivision": {
+		"name": "AEN(A2,KOTA)",
+		"adderess": "VIGAYN NAGAR OPP. ASHOK PARK KOTA 324005",
+		"office_code": 2107220
+	},
+	"complaint_center": {
+		"contact": ["0141-3532000", "18001021912", "18002001912"]
+	},
+	"due_details": {
+		"kno": 210722010926,
+		"due_date": "20-07-2020",
+		"total_due_amt": 32638,
+		"after_due_amt": 33259
+	},
+	"plan": {
+		"consumer_category": "NON DOMESTIC",
+		"rsn": 44,
+		"tariff_code": "2020XA",
+		"area": "URBAN",
+		"consumer_status": "R",
+		"bill_status": "REGULAR"
+	},
+	"meter_reading": {
+		"current_reading_date": "28-06-2020",
+		"previous_reading_date": "28-05-2020",
+		"consumption": "2761 KWH",
+		"trans_loss": 0,
+		"total_consumption_or_demand": "2761 KWH"
+	},
+	"account": {
+		"account_no": "1616/0240",
+		"meter_owner": null,
+		"consumer_pan": null,
+		"billing_demand": null
+	},
+	"last_payment_detail": {
+		"last_payment_date": "18/06/2020",
+		"amount_received": 1600,
+		"mode_of_payment": null,
+		"month_year": null
+	},
+	"discom_payment": {
+		"beneficiary_name": "KEDL",
+		"account_no": "KOTA210722010926",
+		"ifsc_code": "ICIC0000104",
+		"bank_branch": "ICICI Bank Ltd, 18, Jhalawar Road, Kota Rajasthan"
+	},
+	"meter_reading_detail": [{
+			"meter_number": 9788006,
+			"mf": 1.0,
+			"type": "KWH",
+			"previous_reading": 210746.00,
+			"current_reading": 213507.00,
+			"consumption": 2761,
+			"trans_loss": 0,
+			"total_consumption": 2761
+		},
+		{
+			"meter_number": 9788006,
+			"mf": 1.0,
+			"type": "KVAH",
+			"previous_reading": 0.0,
+			"current_reading": 0.0,
+			"consumption": 0,
+			"trans_loss": 0,
+			"total_consumption": 0
+		},
+		{
+			"meter_number": 9788006,
+			"mf": 1.0,
+			"type": "KVA",
+			"previous_reading": 0.0,
+			"current_reading": 0.0,
+			"consumption": 0,
+			"trans_loss": 0,
+			"total_consumption": 0
+		}
+	],
+	"allowed_service": {
+		"security_amount": 3200.00,
+		"meter_security_amt": 0.0,
+		"sanctioned_load": "16.00 KW",
+		"connected_load": 3348,
+		"avg_monthly_consumption": null,
+		"contracted_demand___KVA": null,
+		"meter_phase": "POLY",
+		"supply_voltage": "400 V",
+		"metering_voltage": "400 V",
+		"metering_type": "KWH",
+		"meter_status": "OK",
+		"power_factor": null,
+		"service_no": 5161,
+		"feeder_code": "11F1005445"
+	},
+	"particulars": [
+		[1, "Electricity Expenses", 24495.95],
+		[1, "Electricity Expenses", 24495.95],
+		[2, "Fixed Charges", 2400.00],
+		[3, "Rebate (-) Voltage", 0],
+		[4, "Rebate (-) Solar/Sprinkler", 0],
+		[5, "Incr.Cnsp / NEW MIP (HT) Rebate", 0],
+		[6, "Others (Fuel Surcharge)", 21.74],
+		[7, "Demand Surcharge", 0],
+		[8, "Power Factor Surcharge (+)(-)", 0],
+		[9, "Shunt Capacitor Surcharge (3%)", 0],
+		[10, "Unauthorized Consumption Amount", 0],
+		[11, "CT/PT/Meter Rent", 0],
+		[12, "Transformer Rent", 0],
+		[13, "Total Nigam Dues (Sum of 1 to 12 excluding item 6)", 26895.95],
+		[14, "Electricity Duty on Current Dues", 1104.40],
+		[15, "Water Conservation Cess", 276.10],
+		[16, "Urban Cess", 414.15],
+		[17, "Other Nigam Dues (Code)", 3925.87],
+		[18, "Other Electricity Dues (Code)", 0],
+		[19, "Other Water Conservation Cess (Code)", 0],
+		[20, "Other Urban Cess (Code)", 0],
+		[21, "Others (Code)", 0],
+		[22, "Adjusted Amount (Code)", 0],
+		[23, "Total Amount (Sum of 13 to 22 including item 6)", 32638.21],
+		[24, "Arrear Amount (Nigam Dues)", 0],
+		[25, "Arrear Amount (Govt. Dues)", 0],
+		[26, "Arrear Amount (LPS)", 0],
+		[27, "Deferred Amount (Active Month)", 0],
+		[28, "State Govt. Bearer Amount - Tariff Subsidy", 0],
+		[29, "State Govt. Bearer Amount - Other Subsidy", 0],
+		[30, "Total Due Date Amount (23+24-25-26)", 32638.00],
+		[31, "LPS", 621.03],
+		[32, "Total Amount After Due Date (Sum of 27 to 28)", 33259.00]
+	]
+}
